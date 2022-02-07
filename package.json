@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "It is almost the end of the framework, what is remaining is expanding the test to cover wider scenario for Online Store and prioritizing, execution in suite and groups of the test cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habte0904/project_cypress_automation.git"
+  },
+  "author": "habtamu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habte0904/project_cypress_automation/issues"
+  },
+  "homepage": "https://github.com/habte0904/project_cypress_automation#readme",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
